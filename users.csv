@@ -1,0 +1,12 @@
+Name,Age,Gender,Height,Weight,UserType
+tanvi,19,Female,167.00,60.00,Adult
+alice,13,Female,150.00,50.00,Child
+anushka,19,Female,167.00,60.00,Adult
+anushka,19,Adult,167.00,60.00,Adult
+anushka,19,Adult,167.00,60.00,Adult
+karan,20,Adult,170.00,72.00,Adult
+arya,14,Child,150.00,80.00,ChildRicha Singh,13,Female,150.00,45.00,Child
+Richa Singh,12,Female,144.00,45.00,Child
+Elton,57,Male,180.00,80.00,Adult
+Bob,12,Male,147.00,56.00,Child
+sarah,12,Female,140.00,45.00,Child

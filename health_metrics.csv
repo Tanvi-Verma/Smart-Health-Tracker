@@ -1,0 +1,21 @@
+UserName,Date,Steps,SleepHours,WaterIntake,Mood
+tanvi,2025-11-26,1000,3.00,1.00,happy
+tanvi,2025-11-26,0,0.00,0.00,Not specified
+anushka,2025-11-26,7000,7.00,1.00,happy,2.00,6.00
+anushka,2025-11-26,7000,7.00,1.00,happy,2.00,6.00
+anushka,2025-11-26,10000,8.00,2.00,happy,4.00,8.00
+karan,2025-11-26,8000,5.00,3.00,sad,8.00,2.00
+anushka,2025-11-26,3000,5.00,3.00,happy,3.00,11.00
+tanvi,2025-11-26,20000,9.00,2.00,sad,1.00,10.00
+tanvi,2025-11-26,2222,1.00,5.00,i am feeeling very tired and sad as i am the only one working.,2.00,23.00
+tanvi,2025-11-26,12000,7.00,1.50,stress,4.00,9.00
+Richa Singh,2025-11-26,100,2.00,5.00,anxiety, stress, weak,8.00,10.00
+Richa Singh,2025-11-26,100,2.00,5.00,anxiety, stress, weak,8.00,10.00
+Richa Singh,2025-11-26,100,2.00,5.00,anxiety,8.00,10.00
+Richa Singh,2025-11-26,1000,2.00,5.00,anxiety,8.00,10.00
+Richa Singh,2025-11-26,1000,2.00,5.00,anxiety,8.00,19.00
+Richa Singh,2025-11-26,1200,5.00,2.00,Stress,8.00,10.00
+Elton,2025-11-26,10000,8.00,3.00,Happy and Grateful,5.00,8.00
+Elton,2025-11-26,2000,5.00,2.00,neutral,4.00,7.00
+Bob,2025-11-26,3400,8.00,2.00,happy,4.00,7.00
+sarah,2025-11-30,7000,7.00,2.00,happy,4.00,6.00
